@@ -110,7 +110,7 @@ var songs_rock = [{
                      },
                      {
                    
-                        'name': 'Runaway'
+                        'name': 'Runaway',
 						'artist': 'Linkin Park',
 						'album': 'Hybrid',
 						'duration': '3:13',
@@ -180,7 +180,7 @@ var songs_chill = [{
                      },
                      {
                    
-                        'name': 'Runaway'
+                        'name': 'Runaway',
 						'artist': 'Linkin Park',
 						'album': 'Hybrid',
 						'duration': '3:13',
